@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crown Blazing Scepter</string>
+    <string name="todo">TODO</string>
+    <string name="POLICY">https://www.termsfeed.com/live/05a1c45b-b6b4-454b-819e-c00f48958715</string>
+    <string name="facebook_app_id">939374193820866</string>
+    <string name="client_token">16961d7d773b8c6eee3135934ac5210b</string>
+    <string name="AF_DEV_KEY">rkKw6c2DCtKiQZmFRLeEyX</string>
+    <string name="ONESIGNAL_APP_ID">0aa66f5f-db80-4848-ad4d-8cd5918c8218</string>
+
+</resources>

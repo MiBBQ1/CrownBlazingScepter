@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047282149207",
+    "project_id": "hgfdsa-bee13",
+    "storage_bucket": "hgfdsa-bee13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047282149207:android:1aec6c8b391f13fc970012",
+        "android_client_info": {
+          "package_name": "com.appteessttteeeee1112"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047282149207-mvj3224ld424jh07gk3ghq36i69uiqpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wahqSaoFrtBKrjIl1XRoeND68FTNxm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047282149207-mvj3224ld424jh07gk3ghq36i69uiqpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
